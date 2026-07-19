@@ -73,3 +73,6 @@ The Newton-Raphson method requires the function to be differentiable and the ini
 * Add support for multiple roots.
 ## License
 This submodule is licensed under the MIT License.
+
+---
+**Last updated:** 2026-07-19
