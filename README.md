@@ -76,3 +76,10 @@ This submodule is licensed under the MIT License.
 
 ---
 **Last updated:** 2026-07-19
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
