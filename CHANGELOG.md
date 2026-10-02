@@ -19,3 +19,6 @@ All notable changes to this project are documented here.
 
 ### 2026-09-05
 - Routine maintenance checkpoint.
+
+### 2026-10-02
+- Minor internal housekeeping and dependency review.
