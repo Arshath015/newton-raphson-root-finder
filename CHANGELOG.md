@@ -22,3 +22,6 @@ All notable changes to this project are documented here.
 
 ### 2026-10-02
 - Minor internal housekeeping and dependency review.
+
+### 2026-10-03
+- Documentation pass for clarity and consistency.
