@@ -75,7 +75,7 @@ The Newton-Raphson method requires the function to be differentiable and the ini
 This submodule is licensed under the MIT License.
 
 ---
-**Last updated:** 2026-10-03
+**Last updated:** 2026-10-04
 
 
 ## Requirements
